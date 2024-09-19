@@ -14,7 +14,7 @@ body {
 .calculator {
   border-radius: 10px;
   border: 1px solid black;
-  height: 450px;
+  height: 470px;
   width: 340px;
   background-color: rgba(0, 0, 0, 0.864);
   position: absolute;
@@ -30,7 +30,7 @@ body {
   padding: 15px 40px;
   background-color: rgba(0, 0, 0, 0.864);
   font-size: xx-large;
-  height: 60px;
+  height: 80px;
 }
 .buttons {
   padding: 20px;
